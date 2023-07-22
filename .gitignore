@@ -1,0 +1,10 @@
+playground.py
+__pycache__/
+.bashrc
+.bash_profile
+.env
+env/
+audio/
+text/
+outputs/
+playground.py
